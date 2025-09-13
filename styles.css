@@ -1,0 +1,9 @@
+h1{
+  color: green;
+  font-size: 24px;
+  font-family: poppins;
+  background-color: #1d1d1d;
+  padding: 30px 40px;
+  border: green 2px solid;
+  border-radius: 30px;
+}
